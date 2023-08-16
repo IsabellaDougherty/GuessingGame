@@ -21,7 +21,7 @@ int main() {
 		do {
 			guessed = false;
 			acceptable = false;
-			guesses = 0;
+			guesses = 1;
 			do {
 				cout << "Enter your guess of any number from 1 to 100: ";
 				cin >> guessed_number;
