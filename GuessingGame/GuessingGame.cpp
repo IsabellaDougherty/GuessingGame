@@ -11,7 +11,7 @@ int main() {
 	//---------------------------- Variable Declaration ----------------------------
 	int random_number;
 	int guessed_number;
-	int guesses = 0;
+	int guesses = 1;
 	int cont;
 	bool guessed = false;
 	bool acceptable = false;
